@@ -45,6 +45,7 @@ ul {
 .Work-Experience {
 	text-decoration: none;
 	display: grid;
+	text-align: right;
 
 
 }
@@ -53,13 +54,16 @@ ul {
 	display: grid;
 	height: 20px;
 	word-spacing: 10px;
+	text-align: justify;
 
 }
 .Educational-Background {
 	margin: 23px;
+	text-align: right;
 }
 .References {
 	margin: 23px;
+	text-align: justify;
 	
 }
 h4 {
