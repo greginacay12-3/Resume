@@ -46,6 +46,7 @@ ul {
 	text-decoration: none;
 	display: grid;
 	text-align: right;
+	padding: 20px;
 
 
 }
@@ -55,7 +56,13 @@ ul {
 	height: 20px;
 	word-spacing: 10px;
 	text-align: justify;
+	
 
+}
+#skills {
+	margin: 10px;
+	border: 0px;
+	padding: 25px;
 }
 .Educational-Background {
 	margin: 23px;
