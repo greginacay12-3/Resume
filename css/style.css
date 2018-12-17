@@ -1,0 +1,73 @@
+body {
+	background-color: white;
+	text-align:center;
+	font-family: Verdana;
+	font-size: 20px;
+	margin: 10px;
+	padding:10px;
+	border: 10px;
+}
+h1 {
+	font-family: Verdana;
+	font-size: 30px;
+	letter-spacing: 10px;
+	text-shadow: 3px 3px grey;
+	color: lightblue;
+	
+}
+ul {
+	list-style: none;
+	display: grid ;
+	text-decoration: none;
+	font-family: Verdana;
+	font-size: 20px;
+
+
+}
+#main-content {
+	list-style: none;
+	display: grid ;
+	grid-gap: 10px;
+	grid-template-columns: repeat(3,1fr);
+}
+#name {
+	color: darkred;
+	text-shadow: 3px 3px grey;
+}
+.Personal-info {
+	text-decoration: none;
+	display: grid;
+	height: 20px;
+	margin-bottom: 0px;
+	border: 0px;
+	
+}
+.Work-Experience {
+	text-decoration: none;
+	display: grid;
+
+
+}
+.Skills {
+	text-decoration: none;
+	display: grid;
+	height: 20px;
+	word-spacing: 10px;
+
+}
+.Educational-Background {
+	margin: 23px;
+}
+.References {
+	margin: 23px;
+	
+}
+h4 {
+	padding: 10px;
+}
+.Personal-Profile-Interests {
+	margin:10px;
+	border:10px;
+	padding:10px;
+	
+}
